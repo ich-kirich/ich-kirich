@@ -10,6 +10,7 @@
 ![Webpack](https://img.shields.io/badge/Webpack-090909?style=for-the-badge&logo=Webpack)
 ![Sass](https://img.shields.io/badge/Sass-090909?style=for-the-badge&logo=sass)
 ![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=Figma)
+![Typescript](https://img.shields.io/badge/Typescript-090909?style=for-the-badge&logo=Typescript)
 
 ---
 ### Contact:
