@@ -1,4 +1,4 @@
-# Hi everyoune 👋
+# Hi everyone 👋
 
 ### My name is Kirill, I am 19. I am a student at Yanka Kupala State University of Grodno. I have completed a course on frontend of the Rs school. I am studying at the second university course at the specialty of Information Technology Software and now I am a trainee at the company Twelvedevs.
 ---
