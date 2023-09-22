@@ -1,8 +1,10 @@
-# Hi everyone 👋
+**Hi everyone 👋**
 
-### My name is Kirill. I am a student at Yanka Kupala State University of Grodno. I have completed a course on frontend of the Rs school. I am studying at the third university course at the specialty of Information Technology Software and now I am a trainee at the company Twelvedevs.
+**My name is Kirill. I am a student at Yanka Kupala State University of Grodno. I have completed a course on frontend of the Rs school. I am studying at the third university course at the specialty of Information Technology Software and now I am a trainee at the company Twelvedevs.**
+
 ---
-### Skills:
+**Skills:**
+
 ![React.js](https://img.shields.io/badge/React.JS-090909?style=for-the-badge&logo=React)
 ![Express.js](https://img.shields.io/badge/Express.js-090909?style=for-the-badge&logo=express)
 ![Typescript](https://img.shields.io/badge/Typescript-090909?style=for-the-badge&logo=Typescript)
@@ -29,6 +31,7 @@
 ![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=Figma)
 
 ---
-### Contact:
+**Contact:**
+
 [![telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/ich_kirich)
 [![linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/kirill-medvedz?original_referer=)
