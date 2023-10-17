@@ -25,8 +25,6 @@
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman)
 ![Eslinter](https://img.shields.io/badge/Eslinter-090909?style=for-the-badge&logo=eslint)
 ![Prettier](https://img.shields.io/badge/Prettier-090909?style=for-the-badge&logo=Prettier)
-![Nodemon](https://img.shields.io/badge/Nodemon-090909?style=for-the-badge&logo=Nodemon)
-![Axios](https://img.shields.io/badge/Axios-090909?style=for-the-badge&logo=Axios)
 ![Webpack](https://img.shields.io/badge/Webpack-090909?style=for-the-badge&logo=Webpack)
 ![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=Figma)
 
