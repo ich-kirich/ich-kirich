@@ -1,6 +1,6 @@
 **Hi everyone 👋**
 
-**My name is Kirill. I am a student at Yanka Kupala State University of Grodno. I have completed a course on frontend of the Rs school. I am studying at the third university course at the specialty of Information Technology Software and now I am a trainee at the company Twelvedevs.**
+**My name is Kirill. I am a student at Yanka Kupala State University of Grodno. I have completed a course on frontend of the Rs school. I am studying at the fourth university course at the specialty of Information Technology Software and now I am a trainee at the company Twelvedevs.**
 
 ---
 **Skills:**
